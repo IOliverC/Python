@@ -27,3 +27,16 @@ print("str:")
 # print(type("Hola"))
 # print(type(' '))  
 # print(type("123"))
+# print(type("""
+#     Multilena
+# """))
+
+
+print("bool:")
+# print(type(False))
+# print(type(True))
+# print(type(1 < 2))
+
+print("NoneType")
+print(type(None))
+
